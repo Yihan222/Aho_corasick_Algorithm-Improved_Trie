@@ -1,0 +1,7 @@
+6
+a b c aa d b
+1 2 3 4 5 6
+3
+2 5 caaab
+2 4 xyz
+1 4 bcdybc
